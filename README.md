@@ -1,8 +1,6 @@
 # 📊 Kelompok-3_Business-Intelligence_UAS
 
 ## Multi-Platform Social Sentiment Evolution Analysis Dashboard
-<img width="480" height="269" alt="Executive Overview" src="https://github.com/user-attachments/assets/7de03440-fa90-476c-8f35-b1ab117ed36b" />
-
 
 
 Dashboard **Business Intelligence** yang dikembangkan menggunakan **Microsoft Power BI** untuk menganalisis perkembangan sentimen media sosial, performa engagement, tren viralitas, persebaran wilayah, serta analisis konten dari berbagai platform media sosial.
@@ -81,6 +79,7 @@ Dataset kemudian diolah menggunakan **Microsoft Power BI** untuk menghasilkan da
 
 ## 1. Executive Overview
 
+
 Dashboard ini memberikan gambaran umum mengenai performa media sosial secara keseluruhan.
 
 ### Key Visualizations
@@ -97,7 +96,7 @@ Dashboard ini memberikan gambaran umum mengenai performa media sosial secara kes
 
 ### Dashboard Preview
 
-![Executive Overview](Images/Executive_Overview.png)
+<img width="480" height="269" alt="Executive Overview" src="https://github.com/user-attachments/assets/edad4e42-545b-4898-b6b4-0e570186b87b" />
 
 ---
 
@@ -117,7 +116,7 @@ Dashboard ini berfokus pada analisis persepsi pengguna terhadap berbagai topik.
 
 ### Dashboard Preview
 
-![Sentiment Analysis](Images/Sentiment_Analysis.png)
+<img width="479" height="269" alt="Sentiment Analysis" src="https://github.com/user-attachments/assets/338e6811-fcdd-4b28-a45a-45fdaba29b19" />
 
 ---
 
@@ -136,7 +135,7 @@ Dashboard ini menganalisis performa konten berdasarkan tingkat engagement dan po
 
 ### Dashboard Preview
 
-![Engagement & Viral Analysis](Images/Engagement_Viral_Analysis.png)
+<img width="478" height="269" alt="Engagement Viral Analysis" src="https://github.com/user-attachments/assets/25ee0588-77f4-48de-9495-69280a6f4601" />
 
 ---
 
@@ -154,7 +153,7 @@ Dashboard ini menganalisis aktivitas pengguna berdasarkan wilayah geografis dan 
 
 ### Dashboard Preview
 
-![Geographic & Platform Analytics](Images/Geographic_Platform_Analytics.png)
+<img width="479" height="269" alt="Geographic Platform Analytics" src="https://github.com/user-attachments/assets/3e601897-6d96-410f-9053-8b23c4609302" />
 
 ---
 
@@ -173,7 +172,7 @@ Dashboard ini berfokus pada analisis performa konten serta prediksi tren pada pe
 
 ### Dashboard Preview
 
-![Content Intelligence & Forecasting](Images/Content_Intelligence_Forecasting.png)
+<img width="479" height="270" alt="Content Intelligence Forecasting" src="https://github.com/user-attachments/assets/674a7e0a-1695-4f40-9d98-2e1686f7fca6" />
 
 ---
 
