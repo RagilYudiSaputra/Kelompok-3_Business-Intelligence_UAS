@@ -1,6 +1,9 @@
 # 📊 Kelompok-3_Business-Intelligence_UAS
 
 ## Multi-Platform Social Sentiment Evolution Analysis Dashboard
+<img width="480" height="269" alt="Executive Overview" src="https://github.com/user-attachments/assets/7de03440-fa90-476c-8f35-b1ab117ed36b" />
+
+
 
 Dashboard **Business Intelligence** yang dikembangkan menggunakan **Microsoft Power BI** untuk menganalisis perkembangan sentimen media sosial, performa engagement, tren viralitas, persebaran wilayah, serta analisis konten dari berbagai platform media sosial.
 
