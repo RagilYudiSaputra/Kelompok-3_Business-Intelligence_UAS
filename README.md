@@ -199,29 +199,6 @@ Dashboard ini membantu pengguna untuk:
 
 ---
 
-# 📁 Project Structure
-
-```text
-Kelompok-3_Business-Intelligence_UAS
-│
-├── Dashboard
-│   └── Kelompok 3_Business Intelligence_UAS.pbix
-│
-├── Dataset
-│   └── multi_platform_social_sentiment_evolution.csv
-│
-├── Images
-│   ├── Executive_Overview.png
-│   ├── Sentiment_Analysis.png
-│   ├── Engagement_Viral_Analysis.png
-│   ├── Geographic_Platform_Analytics.png
-│   └── Content_Intelligence_Forecasting.png
-│
-└── README.md
-```
-
----
-
 # ▶️ How to Use
 
 1. Clone atau download repository ini.
